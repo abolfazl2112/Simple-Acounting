@@ -1,0 +1,242 @@
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\bin\Debug\Apple Software.exe.config
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFCP.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFCWH.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFS.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\bin\Debug\AppleDatabase.mdf
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\bin\Debug\AppleDatabase_log.ldf
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\bin\Debug\Apple Software.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\bin\Debug\Apple Software.pdb
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple Software.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Backup\Apple Software\obj\Debug\Apple Software.pdb
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\bin\Debug\Apple Software.exe.config
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple Software.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple Software.pdb
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\bin\Debug\AppleDatabase.mdf
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\bin\Debug\AppleDatabase_log.ldf
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\bin\Debug\Apple Software.exe
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\bin\Debug\Apple Software.pdb
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFCP.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFCWH.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFS.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\Desktop\Afshin Karamifar(www.p30student.com)\Apple Software(www.p30student.com)\Apple Software\Apple Software\obj\Debug\Apple Software.csproj.GenerateResource.Cache
+E:\project\C#########\c#\project TOP C#\Apple Software\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\c#\project TOP C#\Apple Software\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\c#\project TOP C#\Apple Software\Apple Software\obj\Debug\Apple Software.pdb
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\bin\Debug\Apple Software.exe.config
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple Software.exe
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple Software.pdb
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFS.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\bin\Debug\AppleDatabase.mdf
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\bin\Debug\AppleDatabase_log.ldf
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\bin\Debug\Apple Software.exe
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\حسابداری اپل\Apple Software\bin\Debug\Apple Software.pdb
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\bin\Debug\AppleDatabase.mdf
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\bin\Debug\AppleDatabase_log.ldf
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\bin\Debug\Apple Software.exe
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\bin\Debug\Apple Software.pdb
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFS.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.kharid.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.typekala.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.foroosh.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtari.resources
+C:\Users\abolfaz\Documents\Visual Studio 2010\Projects\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtariEdit.resources
+E:\destop\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+E:\destop\hesabdari\Apple Software\bin\Debug\AppleDatabase.mdf
+E:\destop\hesabdari\Apple Software\bin\Debug\AppleDatabase_log.ldf
+E:\destop\hesabdari\Apple Software\bin\Debug\Apple Software.exe
+E:\destop\hesabdari\Apple Software\bin\Debug\Apple Software.pdb
+E:\destop\hesabdari\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFS.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.foroosh.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.kharid.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtari.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtariEdit.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.typekala.resources
+E:\destop\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\destop\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\destop\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.dll
+E:\destop\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.dll
+E:\destop\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.xml
+E:\destop\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.xml
+E:\destop\hesabdari\Apple Software\obj\Debug\Apple_Software.saat.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\AppleDatabase.mdf
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\AppleDatabase_log.ldf
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Apple Software.exe
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFS.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.foroosh.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.kharid.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtari.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtariEdit.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.saat.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.typekala.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.tmp.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.SFKHF.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.print.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.about.resources
+E:\project\C#########\در دست طراحی\hesabdari\Apple Software\obj\Debug\Apple_Software.printHesab.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\AppleDatabase.mdf
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\AppleDatabase_log.ldf
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.exe
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.about.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFDHWEnter.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFEnter.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFHWEnter.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFKAdd.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFLoad.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPAdd.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPKW.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPP.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFPW.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFS.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFSW.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.AFWAdd.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.foroosh.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.kharid.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.MFApple.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtari.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.moshtariEdit.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.print.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.printHesab.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.saat.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.SFKHF.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.tmp.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.typekala.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.chap.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.pish.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.checks.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.repCustomer.resources
+E:\project\C#########\در دست طراحی\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple_Software.pardakhti.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
+E:\project\C#########\در دست طراحی\نرم افزار حسابداری کارگاه تولیدی\hesabdari\Apple Software\bin\Debug\Apple Software.exe.config
+E:\project\C#########\در دست طراحی\نرم افزار حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.exe
+E:\project\C#########\در دست طراحی\نرم افزار حسابداری کارگاه تولیدی\hesabdari\Apple Software\obj\Debug\Apple Software.pdb
